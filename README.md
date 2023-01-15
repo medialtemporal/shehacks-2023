@@ -1,5 +1,7 @@
 # MySTIc
 
+![mySTIc logo](https://github.com/medialtemporal/shehacks-2023/blob/main/mysticlogo.png?raw=true)
+
 ###  My STI Clinic is an app to allow users to keep track of sexual partners, anonymously notify partners about STI results, learn more about STIs and safe sex, and find out what local clinics can help.
 
 ## Inspiration
